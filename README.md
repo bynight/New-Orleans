@@ -1,5 +1,9 @@
 # new orleans by night
 
+## rules
+
+- Regain 1 willpower point when you wake every evening.
+
 ## experience points
 
 - One point - automatic.
